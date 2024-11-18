@@ -5,7 +5,7 @@
 
 ดึงโปรเจคไปใช้งาน
 ```sh
-git clone https://github.com/Dechaawat/Booking.git
+git clone https://github.com/Dechaawat/Booking.git .
 ```
 ## การตั้งค่าเพิ่มเติม
 - 
