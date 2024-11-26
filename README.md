@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,29 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Booking
+## การติดตั้ง
+
+ขั้นตอนในการติดตั้งและตั้งค่าโปรเจกต์
+
+ดึงโปรเจคไปใช้งาน
+```sh
+git clone https://github.com/Dechaawat/Booking.git .
+```
+## การตั้งค่าเพิ่มเติม
+- 
+- 
+- 
+
+## การเริ่มต้นใช้งาน
+
+
+สำหรับการพัฒนา: 
+
+## ข้อกำหนด
+- 
+- 
+- 
+- 
+>>>>>>> 20ebe20f7b09eae694e182a095d49ff335ef542c
